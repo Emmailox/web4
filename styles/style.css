@@ -1,0 +1,24 @@
+/*reset css */
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+} 
+body {
+    background-color: pink
+}
+h1{ text-align: center;
+    
+}
+label {
+    color: gray; 
+    font-weight: bold;
+}
+button {
+    background-color: orange ;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
